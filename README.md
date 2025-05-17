@@ -11,7 +11,9 @@ Com o ComparaPreçoAI, o usuário tem acesso a informações sobre os supermerca
 🚀 Funcionalidades
 _____________________________
 Busca de Informações de sua Localidade O sistema identifica supermercados nas proximidades da localização do usuário, fornecendo o endereço completo e o número de telefone para contato.
+
 Busca de Produtos: O usuário possui a capacidade de inserir um número ilimitado de produtos para fins de comparação.
+
 Comparação de Preço de Produtos: O sistema realiza a comparação de múltiplos produtos, apresentando os dados de forma discriminada por produto, estabelecimento e respectivo preço.
 
 🛠️ Tecnologias Utilizadas
